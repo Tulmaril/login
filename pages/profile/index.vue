@@ -1,0 +1,4 @@
+<template>
+  <LogoutButton />
+  <ItemList />
+</template>
