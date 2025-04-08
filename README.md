@@ -1,8 +1,4 @@
-Deploy на PROD делал бы по гайду с хабра
-
-со стилями не заморачивался, верстаю хорошо
-
- Nuxt Minimal Starter
+Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
